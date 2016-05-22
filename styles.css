@@ -1,0 +1,28 @@
+body {
+    text-align: center;
+    background-color: #1E90FF;
+    color: #0000CD;
+    font-family: "Muli";
+    font-size: 25px;
+    min-width: 610px;
+}
+
+h1 {
+    font-size: 70px;
+    font-family: "Fjalla One";
+}
+
+p {
+  font-family: "Muli";
+  font-size: 10px;
+}
+
+.decreasebelow {
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+            
+.decreaseabove {
+    margin-top: 0;
+    padding-top: 0;
+}
