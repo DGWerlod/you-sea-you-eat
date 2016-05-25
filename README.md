@@ -1,2 +1,2 @@
 # you-sea-you-eat
-The project created at CodeDay 2016!
+A project created at the 2016 spring CodeDay Bay Area event!
